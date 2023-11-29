@@ -20,5 +20,14 @@
         "value": true
       }
     }
+  },
+  {
+    "name": "test-field-1",
+    "fieldId": "test-field-1",
+    "modelId": "test-model",
+    "componentId": "integer",
+    "fieldType": "number",
+    "validations": {},
+    "options": {}
   }
 ]
