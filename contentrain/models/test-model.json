@@ -7,5 +7,18 @@
     "fieldType": "string",
     "validations": {},
     "options": {}
+  },
+  {
+    "name": "test-field-3",
+    "description": "test-field-description-optional",
+    "fieldId": "test-field-3",
+    "modelId": "test-model",
+    "componentId": "single-line-text",
+    "fieldType": "string",
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    }
   }
 ]
