@@ -1,12 +1,5 @@
 [
   {
-    "name": "test",
-    "modelId": "test",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user"
-  },
-  {
     "name": "test-2",
     "modelId": "test-2",
     "localization": false,
