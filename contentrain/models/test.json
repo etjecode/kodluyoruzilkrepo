@@ -16,5 +16,14 @@
     "componentId": "multi-line-text",
     "modelId": "test",
     "fieldType": "string"
+  },
+  {
+    "name": "test-3",
+    "fieldId": "test-3",
+    "validations": {},
+    "options": {},
+    "componentId": "integer",
+    "modelId": "test",
+    "fieldType": "number"
   }
 ]
