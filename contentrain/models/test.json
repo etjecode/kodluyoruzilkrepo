@@ -7,5 +7,14 @@
     "componentId": "single-line-text",
     "modelId": "test",
     "fieldType": "string"
+  },
+  {
+    "name": "test-2",
+    "fieldId": "test-2",
+    "validations": {},
+    "options": {},
+    "componentId": "multi-line-text",
+    "modelId": "test",
+    "fieldType": "string"
   }
 ]
