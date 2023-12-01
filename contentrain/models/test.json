@@ -1,14 +1,5 @@
 [
   {
-    "name": "test-2",
-    "fieldId": "test-2",
-    "validations": {},
-    "options": {},
-    "componentId": "multi-line-text",
-    "modelId": "test",
-    "fieldType": "string"
-  },
-  {
     "name": "test-3",
     "fieldId": "test-3",
     "validations": {},
