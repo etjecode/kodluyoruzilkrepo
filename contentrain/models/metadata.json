@@ -4,6 +4,7 @@
     "modelId": "test-model-json",
     "localization": false,
     "type": "JSON",
-    "createdBy": "user"
+    "createdBy": "user",
+    "description": "model-description"
   }
 ]
