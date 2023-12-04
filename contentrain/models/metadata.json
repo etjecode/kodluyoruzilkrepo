@@ -6,12 +6,5 @@
     "type": "JSON",
     "createdBy": "user",
     "description": "model-description"
-  },
-  {
-    "name": "test-model-2",
-    "modelId": "test-model-2",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user"
   }
 ]
